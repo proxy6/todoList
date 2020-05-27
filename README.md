@@ -4,4 +4,4 @@ An app that helps a user keep track of tasks
 - Basicaly has three features
     - Adds tasks
     - Delete tasks
-    - Completed task (striked through)
+    - Strikes through completed task
